@@ -8,4 +8,4 @@ Hello *world!*
 st.text_input("Digite seu nome completo:")
 st.text_input("Digite sua idade:")
 st.text_input("Digite seu email:")
-st.text_input("Digite seu CPF:)
+st.text_input("Digite seu CPF:")
